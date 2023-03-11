@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "elsoul-nl"
+  },
+  "targets": {
+    "elsoul-nl": {
+      "hosting": {
+        "zapp-doc": [
+          "zapp-doc"
+        ]
+      }
+    }
+  }
+}

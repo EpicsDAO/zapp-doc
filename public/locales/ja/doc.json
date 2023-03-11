@@ -1,0 +1,74 @@
+{
+  "title": "Rust Serverless Framework - ZAPP",
+  "body": "ZAPPはRust製のサーバーレスフレームワークです。スケーラブルなGraphQL APIのWebサーバーを素早く構築できます。",
+  "previousPage": "前のページ",
+  "nextPage": "次のページ",
+  "actions": {
+    "motivation": {
+      "title": "モチベーション",
+      "body": "ZAPP プロジェクトはソフトウェアの開発・運用・保守に関するコストを下げることを目的に立ち上げられました。"
+    },
+    "environment": {
+      "title": "快適な開発環境",
+      "body": "偉大なるオープンソース開発者達の努力と Visual Studio Code のような IDE (統合開発環境) の進化により、 私達は快適な開発環境を手に入れることができました。"
+    },
+    "quickstart": {
+      "title": "クイックスタート",
+      "body": "ここでは ZAPP に必要なパッケージをインストールすれば、すぐに GraphQL API を構築できることを確認します。"
+    },
+    "tutorial": {
+      "title": "チュートリアル",
+      "body": "この ZAPP チュートリアル は実際に手を動かして学びたい人向けに構成されています。"
+    }
+  },
+  "menuNav": {
+    "home": "ドキュメントホーム",
+    "what-is-zapp": {
+      "groupTitle": "What is ZAPP?",
+      "motivation": "開発の動機と目的",
+      "keep-improving": "変化に強いソフトウェアを作る",
+      "dev-environment": "快適な開発環境を手に入れる"
+    },
+    "quickstart": "クイックスタート",
+    "tutorial": {
+      "groupTitle": "チュートリアル",
+      "introduction": "はじめに",
+      "execute-scaffold": "Scaffold の実行",
+      "define-entity": "Entity を定義する",
+      "migration": "マイグレーション",
+      "define-mutation": "Mutation を定義する",
+      "deploy-to-cloud-run": "Clour Run へデプロイする"
+    },
+
+    "api-reference": {
+      "groupTitle": "API Reference",
+      "compute": "Compute",
+      "db": "Db",
+      "docker": "Docker",
+      "g": "G",
+      "gcloud": "Gcloud",
+      "gh": "Gh",
+      "iam": "Iam",
+      "init": "Init",
+      "new": "New",
+      "run": "Run",
+      "sql": "Sql",
+      "dependencies": "Dependencies"
+    },
+    "dependencies": {
+      "groupTitle": "Dependencies",
+      "install-gcloud-sdk": "インストール gcloud-sdk",
+      "install-gh-cli": "インストール gh-cli",
+      "install-docker": "インストール docker",
+      "install-sea-orm": "インストール sea-orm"
+    },
+    "release": {
+      "groupTitle": "リリース",
+      "roadmap": "開発ロードマップ",
+      "release-history": "リリース履歴"
+    }
+  },
+  "headerNav": {
+    "home": "ホームページ"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Rust Serverless Framework - ZAPP",
+  "body": "ZAPP is a serverless framework made by Rust. Quickly build a scalable GraphQL API web server.",
+  "previousPage": "Previous page",
+  "nextPage": "Next page",
+  "actions": {
+    "motivation": {
+      "title": "Motivation",
+      "body": "The ZAPP project was launched with the goal of reducing software development, operation and maintenance costs."
+    },
+    "environment": {
+      "title": "Comfortable Environment",
+      "body": "Thanks to the efforts of the great open source developers and the evolution of IDEs (Integrated Development Environments) like Visual Studio Code , we have a comfortable development environment."
+    },
+    "quickstart": {
+      "title": "Quickstart",
+      "body": "You can build the GraphQL API immediately by installing the required packages for ZAPP."
+    },
+    "tutorial": {
+      "title": "Tutorial",
+      "body": "This ZAPP tutorial is designed for those who want to learn by practically developing a mini-application. "
+    }
+  },
+  "menuNav": {
+    "home": "Doc Home",
+    "what-is-zapp": {
+      "groupTitle": "What is ZAPP?",
+      "motivation": "Motivation",
+      "keep-improving": "Keep Improving",
+      "dev-environment": "Comfortable Environment"
+    },
+    "quickstart": "Quickstart",
+    "tutorial": {
+      "groupTitle": "Tutorial",
+      "introduction": "Introduction",
+      "execute-scaffold": "Execute Scaffold",
+      "define-entity": "Define Entity",
+      "migration": "Migration",
+      "define-mutation": "Define Mutation",
+      "deploy-to-cloud-run": "Deploy to Cloud Run"
+    },
+    "api-reference": {
+      "groupTitle": "API Reference",
+      "compute": "Compute",
+      "db": "Db",
+      "docker": "Docker",
+      "g": "G",
+      "gcloud": "Gcloud",
+      "gh": "Gh",
+      "iam": "Iam",
+      "init": "Init",
+      "new": "New",
+      "run": "Run",
+      "sql": "Sql"
+    },
+    "dependencies": {
+      "groupTitle": "Dependencies",
+      "install-gcloud-sdk": "Install gcloud-sdk",
+      "install-gh-cli": "Install gh-cli",
+      "install-docker": "Install docker",
+      "install-sea-orm": "Install sea-orm"
+    },
+    "release": {
+      "groupTitle": "Release",
+      "roadmap": "Roadmap",
+      "release-history": "Release history"
+    }
+  },
+  "headerNav": {
+    "home": "Home"
+  }
+}

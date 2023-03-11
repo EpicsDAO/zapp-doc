@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "elsoul-nl"
+    "default": "epics-dao"
   },
   "targets": {
-    "elsoul-nl": {
+    "epics-dao": {
       "hosting": {
         "zapp-doc": [
           "zapp-doc"

@@ -41,7 +41,7 @@ export default function DefaultHeader() {
       <header
         className={
           isScrollingUp
-            ? 'fixed top-0 z-10 h-24 w-full  bg-opacity-80  dark:bg-opacity-80'
+            ? 'dark:bg- fixed top-0 z-10 h-24 w-full bg-white bg-opacity-80 dark:bg-gray-900  dark:bg-opacity-80'
             : 'relative z-10 h-24 w-full  '
         }
       >

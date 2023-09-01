@@ -30,7 +30,7 @@ Docs for ZAPP.
 ```bash
 # Node version (using nodenv)
 $ node -v
-v18.14.2
+v18.17.1
 
 # Install dependencies
 $ yarn install --frozen-lockfile
